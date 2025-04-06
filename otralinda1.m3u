@@ -111,6 +111,8 @@ http://38.187.2.125:8000/play/a0ft
 http://38.187.2.125:8000/play/a0da
 #EXTINF:-1,Love Nature
 http://38.187.2.125:8000/play/a0eo
+#EXTINF:-1 tvg-logo="http://190.60.34.46:9999/playlist/tvg-logo/a0on.png",Señal Colombia
+http://190.60.34.46:9999/play/a0on
 #EXTINF:-1,MEGA HD
 http://38.187.2.125:8000/play/a0dc
 #EXTINF:-1,MTV HD
