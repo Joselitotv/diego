@@ -412,5 +412,7 @@ http://181.78.8.199:8000/play/a0hh/index.m3u8
 #EXTINF:-1,Win Sports+ HD (1) ==> FOUND ON SEARCHTV.NET
 http://190.2.213.220:8000/play/a0c7
 #EXTM3U
-#EXTINF:-1,Win Sports+ HD (1) ==> FOUND ON SEARCHTV.NET
-http://38.191.202.162:45000/play/a05p
+#EXTM3U
+#EXTINF:-1,Win Sports+ HD 
+http://181.119.86.1:8000/play/a0d4
+
